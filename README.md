@@ -4,10 +4,12 @@
 
 # 🏥 Awesome DICOM Viewer Cloud Ecosystem ☁️
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.to/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.to/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Dicom-Viewer-Cloud/pulls)
 [![DICOM Standard](https://img.shields.to/badge/DICOM-PS3.14-blue.svg)](https://www.dicomstandard.org/)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🩺 **Curated Directory of SaaS Products, Web-Based Medical Imaging Solutions & Open-Source Cloud DICOM Projects**  
 > *Focused on Zero-Footprint HTML5 Viewers, Cloud PACS Integration, DICOMweb Standard Protocols, and Teleradiology Infrastructure.*
@@ -21,6 +23,8 @@
 - [🛠️ Architecture & Integration Blueprints](#-architecture--integration-blueprints)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer & Compliance](#%EF%B8%8F-disclaimer--compliance)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -121,6 +125,21 @@ Contributions are warmly welcomed! Help us keep this directory accurate and upda
 
 ---
 
-<p align="center">
-  <b>⭐ Star this repository if you find it helpful for your medical imaging projects! ⭐</b>
-</p>
+## 💖 Support & Sponsorship
+
+Thank you for exploring the Awesome DICOM Viewer Cloud ecosystem! If this repository helped your healthcare IT projects, clinical research, or software development, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork it** and contribute new medical imaging tools and cloud PACS options.
+- 📢 **Share it** with fellow radiologists, medical devs, and healthcare engineers.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+</a>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Dicom-Viewer-Cloud&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Dicom-Viewer-Cloud&type=date&legend=top-left)
